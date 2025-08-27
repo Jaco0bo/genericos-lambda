@@ -38,16 +38,22 @@ java -cp target/classes main.java.org.escuelaing.edu.co.Main ./resources/table1_
 
 Using ```table1_col1.txt``` (10 integers):
 
-Count: 10
-Mean: 550.600000
-Sample Std Dev (n-1): 572.026845
+**Count:** 10
+
+**Mean:** 550.600000
+
+**Sample Std Dev (n-1):** 572.026845
 
 
 Using ```table1_col2.txt``` (10 doubles):
 
-Count: 10
-Mean: 60.320000
-Sample Std Dev (n-1): 62.255831
+**Count:** 10
+
+**Mean:** 60.320000
+
+**Sample Std Dev (n-1):** 62.255831
+
+![demo.png](resources/demo.png)
 
 ## What the important files do
 
